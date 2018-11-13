@@ -1,6 +1,9 @@
 
 public class Lecture_git {
 	public static void main(String [] args) {
-		System.out.println("Hello World!");
+		int number = 30 % 3;
+		
+		System.out.println("Hello GitHub");
+		System.out.println(number);
 	}
 }
